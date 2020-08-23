@@ -5,6 +5,5 @@ const head = function(array) {
   // should return the first item of the array passed as argument
 };
 
-
 //
 module.exports = head;

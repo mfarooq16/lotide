@@ -1,6 +1,5 @@
 // FUNCTION IMPLEMENTATION
 
-
 const eqArrays = function(a, b) {
   for (let i = 0; i < a.length; i++) {
     if (a.length !== b.length) {
@@ -12,6 +11,5 @@ const eqArrays = function(a, b) {
     }
   }
 };
-
 
 module.exports = eqArrays;
